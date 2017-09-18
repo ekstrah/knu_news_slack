@@ -1,0 +1,17 @@
+{
+					"username" : "KNU_NEWS_FEED",
+					"icon_emoji" : ":ghost:",
+					"attachments" : [
+					{
+						"color":"danger",
+						"fields" : [
+						{
+							"title":"글로벌SW역량강화 정기세미나(9.22-금) 경북대 재학생 모두 참여가능",
+							"value": "http://computer.knu.ac.kr/07_sub/01_sub.html?no=1900&bbs_cmd=view&page=1&key=&keyfield=&category=&bbs_code=Site_BBS_25",
+							"short":false
+						}
+						]
+					}
+					]
+				}]
+				}
