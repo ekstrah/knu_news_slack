@@ -1,0 +1,18 @@
+{ 
+	"username" : "KNU_NEWS_FEED",
+	"icon_emoji":":ghost:",
+	"attachments" : [
+	{
+		"color": "danger",
+		"fields" : [
+		{
+			"title" : "news!",
+			"value":"this is an emergency",
+			"short": false
+
+	}
+	]
+}
+]
+}
+
